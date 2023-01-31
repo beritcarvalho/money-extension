@@ -4,6 +4,25 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+  
+    <PackageId>MoneyExtensionEstudosBerit</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Berit Carvalho</Authors>
+    <Company>beri.dev</Company>
+    <PackageDescription>Primeiro pacote do estudo de Azure DevOps</PackageDescription>
+    <Description>Primeiro pacote do estudo de Azure DevOps</Description>
+    <RepositoryUrl>https://github.com/beritcarvalho/money-extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/beritcarvalho/money-extension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>money;int;converter;berit</PackageTags>
+    <Title>Berit Estudos MoneyExtension</Title>
+    <Summary>Pacote de estudo</Summary>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>

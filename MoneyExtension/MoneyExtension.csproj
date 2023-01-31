@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   
-    <PackageId>MoneyExtensionEstudosBerit</PackageId>
+    <PackageId>BeritMoneyExtensions</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Berit Carvalho</Authors>
